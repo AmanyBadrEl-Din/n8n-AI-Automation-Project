@@ -40,7 +40,7 @@ n8n-AI-Automation-Project/
 Workflows, documentation, and project deliverables will be uploaded and updated progressively throughout the development process.
 
 ## Team
-- Project Team: Amany Said BadrEl-Din, Khairya Zedan, Eman Abdelrahman, and Sarah 
+- Project Team: Amany Said BadrEl-Din, Khairya Zedan, Eman Abdelrahman, and Sarah Nagah
 - Instructor: Omneya Atef Ahmed
 
 ## Repository Purpose
