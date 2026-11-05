@@ -1,5 +1,6 @@
 # n8n AI Automation Project
 AI Automation Workflow Project using n8n
+"Talk-to-Your-Data Analyst Agent"
 
 ## Project Overview
 This repository contains the development, implementation, and documentation of an AI Automation Workflow project using n8n.
@@ -40,7 +41,7 @@ n8n-AI-Automation-Project/
 Workflows, documentation, and project deliverables will be uploaded and updated progressively throughout the development process.
 
 ## Team
-- Project Team: Amany Said BadrEl-Din, Khairya Zedan, Eman Abdelrahman, and Sarah Nagah
+- Project Team: Amany Said BadrEl-Din, Khairya Zedan, Eman Abdelrahman, Sarah Nagah and Walaa Adel
 - Instructor: Omneya Atef Ahmed
 
 ## Repository Purpose
